@@ -1,0 +1,31 @@
+{
+  "courses":
+          [
+            {
+              "name": "Python",
+              "gradution": 6,
+              "description": "This is a very interesting course",
+              "buying_users": 0.0,
+              "price": 1320000.0,
+              "mentor": "John Smith",
+              "hours": 240.0,
+              "reyting": 0,
+              "active_users": 0,
+              "lenguege": "uz",
+              "create_date": "2022-04-22"
+            },
+            {
+              "name": "Java",
+              "gradution": 9,
+              "description": "This is the main course",
+              "buying_users": 0.0,
+              "price": 1400000.0,
+              "mentor": "Nursulton Nurbekov",
+              "hours": 240.0,
+              "reyting": 0,
+              "active_users": 0,
+              "lenguege": "uz",
+              "create_date": "2021-04-18"
+            }
+          ]
+}

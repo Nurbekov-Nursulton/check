@@ -1,0 +1,48 @@
+{
+      "users": [
+            {
+                  "username": "nur123",
+                  "password": "nur147",
+                  "first_name": "Nursulton",
+                  "last_name": "Nurbekov",
+                  "gmail": "nurgmail.com",
+                  "status": 0,
+                  "billing": 0,
+                  "phone_number": "945717115",
+                  "create_date": "2024-01-21"
+            },
+            {
+                  "username": "azizbek",
+                  "password": "123456",
+                  "first_name": "Azizbek",
+                  "last_name": "Ergashov",
+                  "gmail": "aziz@gmail.com",
+                  "status": 0,
+                  "billing": 0,
+                  "phone_number": "945717110",
+                  "create_date": "2024-01-21"
+            },
+            {
+                  "username": "bek156",
+                  "password": "bek123",
+                  "first_name": "nnur",
+                  "last_name": "nuuhuyg",
+                  "gmail": "nurm@gmail.com",
+                  "status": 0,
+                  "billing": 1100000.0,
+                  "phone_number": "945765885",
+                  "create_date": "2024-01-17"
+            },
+            {
+                  "username": "asad147",
+                  "password": "asad123",
+                  "first_name": "Nursulton",
+                  "last_name": "Javliyev",
+                  "gmail": "islombek@gmail.com",
+                  "status": 1,
+                  "salary": 800000,
+                  "phone_number": "945872558",
+                  "create_date": "2024-01-17"
+            }
+      ]
+}
