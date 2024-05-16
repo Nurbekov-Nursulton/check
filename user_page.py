@@ -299,3 +299,8 @@ def user(username, password):
     else:
         print("Error!\n Bunday service mavjud emas")
         return user(username, password)
+
+
+data =  [Bek, Nur , Ali]
+for i in data:
+    print(i)
